@@ -1,16 +1,20 @@
+import translate.Dictionary;
+
 public class FormLetter {
     private String templatePath;
     private Dictionary dictionary;
 
-    public void FormLetter(String teplatePath){}
+    public void FormLetter(String teplatePath) {
+    }
 
-    public void setDictionary(Dictionary dictionary){}
+    public void setDictionary(Dictionary dictionary) {
+    }
 
-    public String translateLine(String line){
+    public String translateLine(String line) {
         return "";
     }
 
-    public void generate(String outputFilePath){
+    public void generate(String outputFilePath) {
 
     }
 }
