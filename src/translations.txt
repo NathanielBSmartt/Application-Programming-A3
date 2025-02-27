@@ -1,0 +1,3 @@
+<NAME> "Carl"
+<AMOUNT> "$100"
+<PRODUCT> "Potato"
